@@ -1,0 +1,14 @@
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Programas Visual Studio\Curso Sistema de Venta\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
